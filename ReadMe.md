@@ -136,5 +136,4 @@ CREATE TABLE dwh.f_orders (
     CONSTRAINT f_orders_uq UNIQUE (source_system_code, order_id)
 );
 ```
-
-Спасибо за внимание!
+Если, что-то не будет вдруг запускаться или появятся вопросы, я на связи. Спасибо за внимание!
